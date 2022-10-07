@@ -1,7 +1,7 @@
 
 {
 
-"spider":"https://xn--m7r412advb92j21st65a.tk/tvb;md5;3737b908ce2a9c294f8f309c9fccfa93",
+"spider":"https://xn--m7r412advb92j21st65a.tk/tvb",
 "wallpaper":"https://tool.weetai.cn/api",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvdHYudHh0"]}]}],
 
