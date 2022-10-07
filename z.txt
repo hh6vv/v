@@ -8,8 +8,8 @@ CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 福建综合,http://p2.weizan.cn/11844069/132114573749498521/live.m3u8?zfud
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?blog.ntnas.top
+中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
