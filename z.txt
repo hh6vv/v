@@ -13,7 +13,7 @@ CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-J2,http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+
 J2,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 ⚛️央视综合,#genre#
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
