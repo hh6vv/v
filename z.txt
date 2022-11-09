@@ -1,5 +1,22 @@
 
 ⚛️央视综合,#genre#
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
+CCTV-2,http://hls.ye23.vip/hls/cctv2hd.m3u8
+CCTV-3,http://hls.ye23.vip/hls/cctv3hd.m3u8
+CCTV-4,http://hls.ye23.vip/hls/cctv4hd.m3u8
+CCTV-5,http://hls.ye23.vip/hls/cctv5hd.m3u8
+CCTV-6,http://hls.ye23.vip/hls/cctv6hd.m3u8
+CCTV-7,http://hls.ye23.vip/hls/cctv7hd.m3u8
+CCTV-8,http://hls.ye23.vip/hls/cctv8hd.m3u8
+CCTV-9,http://hls.ye23.vip/hls/cctv9hd.m3u8
+CCTV-10,http://hls.ye23.vip/hls/cctv10hd.m3u8
+CCTV-11,http://hls.ye23.vip/hls/cctv11hd.m3u8
+CCTV-12,http://hls.ye23.vip/hls/cctv12hd.m3u8
+CCTV-13,http://hls.ye23.vip/hls/cctv13hd.m3u8
+CCTV-14,http://hls.ye23.vip/hls/cctv14hd.m3u8
+CCTV-16,http://hls.ye23.vip/hls/cctv16hd.m3u8
+CCTV-17,http://hls.ye23.vip/hls/cctv17hd.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 中天新闻,http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8  
