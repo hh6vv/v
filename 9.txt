@@ -3,13 +3,8 @@
 
 "spider":"https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc",
 "wallpaper":"https://壁纸.神器每日推送.tk",
-"lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt"
-    }
-  ],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oaDZ2di5naXRodWIuaW8vdi96LnR4dA=="]}]}],
+
 
 "sites":[
 {"key":"douban2","name":"🅱豆瓣荐片┃推荐首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
