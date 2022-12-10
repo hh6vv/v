@@ -1,7 +1,7 @@
 
 
 {
-"spider":"http://w.g9.pub:66/fantaiying/xo.jar;md5;7346e48ac1675ea2f11fa4024456f369",
+"spider":"https://agit.ai/fantaiying/fty/raw/branch/master/ox.jar;md5;efb89c6b91da5145212e01b630627d0b",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
 "lives": [
     {
