@@ -1,7 +1,7 @@
 
 {
 
-"spider":"https://xn--m7r412advb92j21st65a.tk/xo.txt",
+"spider":"https://xn--m7r412advb92j21st65a.tk/xo.txt;md5;2280df2ef7871c2adf511530141ca78b",
 "wallpaper":"https://壁纸.神器每日推送.tk",
 "lives": [
     {
